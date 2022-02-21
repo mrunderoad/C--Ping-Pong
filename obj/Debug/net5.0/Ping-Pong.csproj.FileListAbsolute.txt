@@ -1,0 +1,16 @@
+C:\Users\Person\Desktop\Epicodus\Ping Pong\obj\Debug\net5.0\Ping-Pong.csproj.AssemblyReference.cache
+C:\Users\Person\Desktop\Epicodus\Ping Pong\obj\Debug\net5.0\Ping-Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person\Desktop\Epicodus\Ping Pong\obj\Debug\net5.0\Ping-Pong.AssemblyInfoInputs.cache
+C:\Users\Person\Desktop\Epicodus\Ping Pong\obj\Debug\net5.0\Ping-Pong.AssemblyInfo.cs
+C:\Users\Person\Desktop\Epicodus\Ping Pong\obj\Debug\net5.0\Ping-Pong.csproj.CoreCompileInputs.cache
+C:\Users\Person\Desktop\Epicodus\Ping Pong\bin\Debug\net5.0\Ping-Pong.exe
+C:\Users\Person\Desktop\Epicodus\Ping Pong\bin\Debug\net5.0\Ping-Pong.deps.json
+C:\Users\Person\Desktop\Epicodus\Ping Pong\bin\Debug\net5.0\Ping-Pong.runtimeconfig.json
+C:\Users\Person\Desktop\Epicodus\Ping Pong\bin\Debug\net5.0\Ping-Pong.runtimeconfig.dev.json
+C:\Users\Person\Desktop\Epicodus\Ping Pong\bin\Debug\net5.0\Ping-Pong.dll
+C:\Users\Person\Desktop\Epicodus\Ping Pong\bin\Debug\net5.0\ref\Ping-Pong.dll
+C:\Users\Person\Desktop\Epicodus\Ping Pong\bin\Debug\net5.0\Ping-Pong.pdb
+C:\Users\Person\Desktop\Epicodus\Ping Pong\obj\Debug\net5.0\Ping-Pong.dll
+C:\Users\Person\Desktop\Epicodus\Ping Pong\obj\Debug\net5.0\ref\Ping-Pong.dll
+C:\Users\Person\Desktop\Epicodus\Ping Pong\obj\Debug\net5.0\Ping-Pong.pdb
+C:\Users\Person\Desktop\Epicodus\Ping Pong\obj\Debug\net5.0\Ping-Pong.genruntimeconfig.cache
